@@ -10,3 +10,4 @@ ghcr.io/labring/fastgpt-sandbox:latest
 mongo:5.0.18
 pgvector/pgvector:0.7.0-pg15
 --platform=linux/arm64 xiaoyaliu/alist
+openai:0.27.8
